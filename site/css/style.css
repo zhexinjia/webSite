@@ -203,6 +203,18 @@ a.btn:hover {
  position: relative;
  margin-top: 5px;
 }
+.img_icon {
+	border-radius: 50%;
+	max-width: 100%;
+	 -moz-box-sizing: border-box;
+ -webkit-box-sizing: border-box;
+ -o-box-sizing: border-box;
+ box-sizing: border-box;
+	margin-bottom: 0px;
+ position: relative;
+ margin-top: 5px;
+}
+
 
 .fleft {
 	float: left;
@@ -3279,6 +3291,46 @@ div.joinBtn {
 }
 */
 
+/*自己添加的css*/
 
+.h3center{
+	text-align: center;
+}
 
+.star-bar-show{
+	margin:auto;
+	margin-top: 10px;
+    width: 50%;
+	background:url(../images/star_red.png) repeat-x 0 0}
+.star-bar-show .star{background:url(../images/star_red.png) repeat-x 0 0}
+.star-1{width:20%}
+.star-2{ width:40%}
+.star-3{width:60%}
+.star-4{ width:80%}
+.star-5{ width:100%}
+.star-bar-show.size-M{width:120px;height:24px}
+.star-bar-show.size-M,.star-bar-show.size-M .star{background-size:24px}
+.star-bar-show.size-M .star{ height:24px}
+.star-bar-show.size-S{width:80px; height:16px}
+.star-bar-show.size-S,.star-bar-show.size-S .star{background-size:16px}
+.star-bar-show.size-S .star{ height:16px}
 
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.button2 {
+	background-color: #e7e7e7; color: black;
+}
+.space {
+	margin-left: 10px;
+}
