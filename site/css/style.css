@@ -3334,3 +3334,107 @@ div.joinBtn {
 .space {
 	margin-left: 10px;
 }
+
+#myProgress {
+    width: 100%;
+    background-color: #ddd;
+  }
+  
+#level-1 {
+    width: 40%;
+    height: 15px;
+    background-color: #4CAF50;
+    text-align: center;
+    line-height: 15px;
+    color: white;
+}
+
+#level-2 {
+    width: 40%;
+    height: 15px;
+    background-color: #4CAF50;
+    text-align: center;
+    line-height: 15px;
+    color: white;
+}
+
+#level-3 {
+    width: 60%;
+    height: 15px;
+    background-color: #4CAF50;
+    text-align: center;
+    line-height: 15px;
+    color: white;
+}
+
+#level-4 {
+    width: 80%;
+    height: 15px;
+    background-color: #4CAF50;
+    text-align: center;
+    line-height: 15px;
+    color: white;
+}
+
+#level-5 {
+    width: 100%;
+    height: 15px;
+    background-color: #4CAF50;
+    text-align: center;
+    line-height: 15px;
+    color: white;
+}
+
+.name {
+    font: 20px;
+}
+
+h4.title {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 20px 0;
+}
+
+p.indent{ 
+    padding-left: 1.8em 
+}
+
+.review-title{
+    border-bottom: 1px solid #000;
+}
+
+.review-title > h4 {
+    display: inline-block;
+    font-size: 25px;
+    line-height: 35px;
+}
+
+.review-title span {
+    margin-left: 100px;
+    line-height: 40px;
+
+}
+.review-title p {
+    margin-left: 180px;
+}
+
+.review-content {
+
+}
+
+.review-content p{
+    margin-top: -25px;
+    margin-left: 64px;
+    font-size: 13px;
+    
+}
+
+.review-content a{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.review-content date{
+    
+}
