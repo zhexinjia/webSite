@@ -3438,3 +3438,20 @@ p.indent{
 .review-content date{
     
 }
+
+.h3 title{
+    color: black;
+    
+}
+
+.pic_list img{
+    margin-left: -20px;
+    margin-bottom: 20px;
+}
+
+.text_dev{
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: -20px;
+    color: black;
+}
